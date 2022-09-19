@@ -1,0 +1,15 @@
+.input-number{
+    width: 50px;
+}
+.input-text{
+    width: 100px;
+}
+.invisible{
+    display: none;
+}
+.fa-cart-shopping{
+    color:black;
+}
+.fa-cart-shopping:hover{
+    color:grey;
+}
