@@ -1,0 +1,8 @@
+HISTÓRICO DE COMPRAS
+ - apresentar listagem de compras de cada utilizador (só as suas compras)
+ - abrir detalhes de compra para ver produtos comprados em pormenor
+
+CARRINHO DE COMPRAS
+ - calcular total compra
+ - finalizar compra
+ - alterar na BD compra quando altera valores de quantidade de artigo
