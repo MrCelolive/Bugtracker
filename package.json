@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "chalk": "5.2.0",
+    "each-async": "^2.0.0",
+    "indent-string": "^5.0.0"
+  }
+}
